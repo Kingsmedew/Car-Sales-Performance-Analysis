@@ -58,37 +58,22 @@ The methodology for this project includes:
 
 Key findings from the analysis include:
 
-- [Insert key finding 1]
-- [Insert key finding 2]
-- [Insert key finding 3]
+ROCOMENDATION
+
+ Assess the performance of the current branches in relation to their local market conditions
+
+  Consider relocating or closing branches that are in less favorable areas and underperforming.
+
+  Conduct comprehensive market research and analysis before selecting new branch locations to ensure they are in areas with favorable demographics and purchasing power.
+
+
+CONCLUSION
+
+ Open a second branch in Lagos state or open a branch in PH or Kano.
+
+ Close the branch in Ekiti State.
+<img width="1732" height="413" alt="image" src="https://github.com/user-attachments/assets/df01e36d-cca5-42cd-9210-abd4c7d00179" />
+
 
 These insights can be leveraged to enhance sales strategies and decision-making processes.
 
-## Technologies Used
-
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-learn
-- Jupyter Notebook
-
-## How to Run the Project
-
-1. Clone the repository: `git clone https://github.com/yourusername/car-sales-performance-analysis.git`
-2. Navigate to the project directory: `cd car-sales-performance-analysis`
-3. Install the required packages: `pip install -r requirements.txt`
-4. Run the Jupyter Notebook: `jupyter notebook`
-
-## Contributing
-
-Contributions are welcome! If you have any suggestions or improvements, please feel free to submit a pull request or open an issue.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to modify this template to better fit your project's content and specific findings.
