@@ -1,7 +1,3 @@
-Certainly! Below is a template for a README file that you can use for your car sales performance analysis project on your GitHub portfolio. You can customize it further based on the specifics of your project.
-
----
-
 # Car Sales Performance Analysis
 
 ## Project Overview
