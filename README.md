@@ -75,6 +75,9 @@ CONCLUSION
 
  Open a second branch in Lagos state or open a branch in PH or Kano.
 
+ For your business and data analysis for improved performance, you can reach me via ikechukwuegbede@gmail.com  
+ https://www.linkedin.com/in/ikechukwu-egbede
+
  Close the branch in Ekiti State.
 <img width="1732" height="413" alt="image" src="https://github.com/user-attachments/assets/df01e36d-cca5-42cd-9210-abd4c7d00179" />
 
