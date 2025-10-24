@@ -1,4 +1,5 @@
 # Car Sales Performance Analysis
+<img width="2048" height="1360" alt="Image" src="https://github.com/user-attachments/assets/8baf9c6a-6aed-4b4d-abd7-8df76ce63ca3" />
 
 ## Project Overview
 
